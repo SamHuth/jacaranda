@@ -1,2 +1,2 @@
-# jacaranda
+# Jacaranda
 PHP api calls to retrieve data from the OMDb

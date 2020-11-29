@@ -23,6 +23,12 @@
         margin-bottom: 20px;
         text-align: center;
     }
+    .msg{
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+        width: 100%;
+    }
     #colourform fieldset{
         padding: 20px;
         margin: 10px;
@@ -191,6 +197,8 @@
                     ";
                 }
 
+            } else {
+                echo '<p class="msg">Please select a colour to display movies!</p>';
             }
             ?>
         </div>
